@@ -53,6 +53,7 @@ def max_marks(list1):
 
 i)	# To find the maximum of marks using the list method sort.
 ![output](ex7.png.jpg) 
+
 ii)	# To find the maximum marks using the list method max().
 ![output1](ex7a.png.jpg)
 
